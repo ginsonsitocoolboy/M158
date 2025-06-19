@@ -21,14 +21,18 @@ Fügen Sie hier Ihre Ergebnisse ein
 
 ```mermaid
 gantt
-    title A Gantt Diagram
+    title Schulprojekt-Zeitplan
     dateFormat  YYYY-MM-DD
-    section 
-    A task           :a1, 2014-01-01, 30d
-    Another task     :after a1  , 20d
-    section f
-    Task in sec      :2014-01-12  , 12d
-    another task      : 24d
+    section Tag 1
+    Planen        :a1, 2025-05-23, 7d
+    section Tag 2
+    Entscheiden   :a2, 2025-05-30, 7d
+    section Tag 3
+    Vorbereitung  :a3, 2025-06-06, 7d
+    section Tag 4-5
+    Arbeiten      :a4, 2025-06-13, 7d
+
+
 ```
 
 ## Aufgabe 2 – Architekturdiagramm erstellen
