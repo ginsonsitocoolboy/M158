@@ -59,31 +59,23 @@ gantt
   DNS-Server                      :c4, after c3, 7d
   Snapshot 5                      : milestone, after c4, 0d
 
-  section Phase 4: Migration
-  WP-Dateien migrieren           :d1, after c4, 7d
-  WP-Datenbank migrieren         :d2, after c4, 7d
-  WP-Konfiguration               :d3, after c4, 7d
-  Snapshot 6                     : milestone, after d3, 0d
-
   section Phase 5: Test & Abnahme
   Funktionstests                 :e1, after d3, 7d
-  Site Health Check              :e2, after d3, 7d
 ```
 
 
 ## Aufgabe 2 – Architekturdiagramm erstellen
 
 ### Stufe 1
-
-Fügen Sie hier Ihre Ergebnisse ein
+Ich hatte vor mit diesem Architekturdiagramm zu arbeiten. Jedoch habe ich meine Meinung im Verlauf des Projekts geändert und hatte keine Zeit eine neues Architekturdiagramm zu erstellen
+![alt text](image-26.png)
 
 ### Stufe 2
 
-Fügen Sie hier Ihre Ergebnisse ein
 
 ### Stufe 3
 
-Fügen Sie hier Ihre Ergebnisse ein
+
 
 ---
 
@@ -91,19 +83,21 @@ Fügen Sie hier Ihre Ergebnisse ein
 
 ### Stufe 1
 
-Fügen Sie hier Ihre Ergebnisse ein
+![alt text](image-25.png)
 
 ### Stufe 2
 
-Fügen Sie hier Ihre Ergebnisse ein
+![alt text](image-23.png)
+
+### Stufe 3
+
+![alt text](image-24.png)
 
 ---
 
 ## Aufgabe 4 – DNS-Konfiguration
 
-Ändern Sie die Stufe, für die Sie sich entschieden haben, selbst.
-
-### Stufe ?
+### Stufe 3
 
 Fügen Sie hier Ihre Ergebnisse ein
 
