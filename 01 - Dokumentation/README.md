@@ -99,10 +99,12 @@ Fügen Sie hier Ihre Ergebnisse ein
 ## Aufgabe 5 – Webserver konfigurieren
 
 ### Stufe 1
+Nach der erfolgreichen Installation und Konfiguration des Apache2-Webservers wird beim Aufruf der Server-IP oder Domain im Browser die Standardseite von Apache angezeigt.
 ![alt text](image-3.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ### Stufe 2
+
 ![alt text](image-4.png)
 ![alt text](image-5.png)
 ![alt text](image-6.png)
@@ -113,7 +115,7 @@ Fügen Sie hier Ihre Ergebnisse ein
 ## Aufgabe 6 – PHP einrichten
 
 ### Stufe 1
-
+php erscheint über den mit DNS gesetzten url
 ![alt text](image-9.png)
 
 ### Stufe 2
@@ -129,12 +131,13 @@ Fügen Sie hier Ihre Ergebnisse ein
 ## Aufgabe 7 – MySQL/MariaDB aufsetzen
 
 ### Stufe 1
-
+Hier wird mariaDB und MySQL heruntergeladen und eingerichtet
 ![alt text](image-15.png)
+mariaDB client wird heruntergeladen für den Zugriff von Webserver auf MariaDB
 ![alt text](image-17.png)
 ![alt text](image-18.png)
 ### Stufe 2
-
+Auf das heruntergeladene MariaDB die Datenbank und User erstellen
 ![alt text](image-19.png)
 
 ### Stufe 3
@@ -146,12 +149,13 @@ Ich habe einen Webserver und DB also 2 Instanzen.
 ## Aufgabe 8 – Web-Datenbanktool phpMyAdmin
 
 ### Stufe 1
-
+phpmyadmin wird heruntergeladen
 ![alt text](image-20.png)
 
 ### Stufe 2
-
+Über Website auf phpmyadmin zugreifen
 ![alt text](image-21.png)
+File wird konfiguriert
 ![alt text](image-22.png)
 ### Stufe 3
 
