@@ -64,7 +64,8 @@ Ich hatte vor mit diesem Architekturdiagramm zu arbeiten. Jedoch habe ich meine 
 ![alt text](image-26.png)
 
 ### Stufe 2
-
+Das war die zweite Version die ich am Anfang geplant habe aber nicht abschliessen konnte
+![alt text](image-28.png)
 
 ### Stufe 3
 
