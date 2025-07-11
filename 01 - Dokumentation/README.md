@@ -1,11 +1,6 @@
-# Projektdokumentation – M158 LB2 <br>WordPress-Migration
+# Projektdokumentation – M158 LB2 <br>
 
-## Übersicht
 # Projektdokumentation – Webserver-Projekt
-
-Diese Dokumentation ist nach den Aufgaben (1–14) gegliedert. Jede Aufgabe ist in drei Phasen unterteilt. Bitte tragen Sie Ihre Ergebnisse jeweils unter den entsprechenden Abschnitten ein.
-
----
 
 ## Aufgabe 1 – Projektplan erstellen
 
@@ -53,11 +48,9 @@ gantt
   OS-Konfiguration                :c1, after b1, 7d
   Snapshot 2                      : milestone, after c1, 0d
   Webserver & DB                  :c2, after c1, 7d
-  Snapshot 3                      : milestone, after c2, 0d
-  Virtual Hosts (V-Host)          :c3, after c2, 7d
-  Snapshot 4                      : milestone, after c3, 0d
+  Snapshot 3                      : milestone, after c2,
   DNS-Server                      :c4, after c3, 7d
-  Snapshot 5                      : milestone, after c4, 0d
+  Snapshot 4                     : milestone, after c4, 0d
 
   section Phase 5: Test & Abnahme
   Funktionstests                 :e1, after d3, 7d
